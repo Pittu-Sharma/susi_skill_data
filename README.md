@@ -1,6 +1,21 @@
 # susi_skill_data
 This is the storage place for susi skills. It is for now a temporary solution for a wiki-like skill editing service that we want to create in the near future.
 
+## Purpose of this Repository
+
+This repository contains structured skill data, metadata, and resources used by the SUSI AI ecosystem.
+
+It does **not** contain the SUSI server implementation itself.  
+Instead, it provides:
+
+- Skill definitions and categorized knowledge
+- Supporting media and structured datasets
+- Content consumed by SUSI Server and SUSI CMS
+- Community-contributed conversational skills
+
+This separation allows contributors to improve SUSI’s knowledge base
+without modifying backend infrastructure.
+
 ## Installation
 This repository must be cloned along https://github.com/fossasia/susi_server to make it available to SUSI.AI.
 The production platform of http://susi.ai will do a `git pull origin master` every minute. That means, every change will be available very soon.
