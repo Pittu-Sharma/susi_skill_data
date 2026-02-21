@@ -1,0 +1,14 @@
+{
+  "name": "Placeholder Skill",
+  "language": "en",
+  "examples": [
+    "What can you do?",
+    "Help me"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "This placeholder skill prevents the category from being empty."
+    }
+  ]
+}
