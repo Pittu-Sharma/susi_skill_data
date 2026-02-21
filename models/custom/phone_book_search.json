@@ -1,0 +1,17 @@
+{
+  "name": "Phone book search",
+  "language": "en",
+  "tags": ["phone", "contact", "phonebook", "search"],
+  "examples": [
+    "What is the phone number of Jack Blue",
+    "Give me the phone number of John",
+    "Find contact number of Alex",
+    "Phone number of Rahul"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "I will look up the phone number in your local phone book."
+    }
+  ]
+}
