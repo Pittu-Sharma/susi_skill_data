@@ -1,0 +1,15 @@
+{
+  "name": "Phone book search",
+  "language": "en",
+  "examples": [
+    "What is the phone number of Jack Blue?",
+    "Find phone number of John",
+    "Call Alice"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "Why would you like to know?"
+    }
+  ]
+}
