@@ -1,0 +1,16 @@
+{
+  "queries": [
+    {
+      "query": "When was doom 2 released?",
+      "answer": "Doom 2 was released on 26 December 1995."
+    },
+    {
+      "query": "Doom 2 release date?",
+      "answer": "Doom 2 was released on 26 December 1995."
+    },
+    {
+      "query": "When did Doom 2 come out?",
+      "answer": "Doom 2 was released on 26 December 1995."
+    }
+  ]
+}
