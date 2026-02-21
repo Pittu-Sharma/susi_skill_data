@@ -1,0 +1,19 @@
+::protected No
+::name How do I in Python
+::category Knowledge
+::language en
+::description Answers "How do I * in Python?" questions using StackOverflow search
+::dynamic_content Yes
+
+How do I * in Python?
+How can I * in Python?
+How to * in Python?
+
+!console:
+{
+  "url": "https://api.stackexchange.com/2.3/search/advanced?order=desc&sort=relevance&site=stackoverflow&q=$1 Python",
+  "path": "$.items[0].link"
+}
+
+Here is a relevant StackOverflow discussion:
+$console$
