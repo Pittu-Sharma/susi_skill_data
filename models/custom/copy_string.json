@@ -1,0 +1,16 @@
+{
+  "name": "Copy String in Python",
+  "language": "en",
+  "tags": ["python", "string", "copy"],
+  "examples": [
+    "How do I copy a string in Python?",
+    "Copy string in python",
+    "Duplicate a string in Python"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "In Python, strings are immutable. To copy a string, simply assign it to another variable:\n\noriginal = 'Hello'\ncopied = original\n\nYou can also use:\n\ncopied = str(original)"
+    }
+  ]
+}
