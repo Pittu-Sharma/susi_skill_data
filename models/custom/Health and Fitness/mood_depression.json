@@ -1,0 +1,18 @@
+{
+  "name": "Mood support and depression",
+  "language": "en",
+  "examples": [
+    "I am depressed",
+    "I feel very low",
+    "I am feeling sad",
+    "I feel lonely",
+    "I am not feeling good mentally",
+    "Why do I feel depressed?"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "I'm really sorry that you're feeling this way. You're not alone, and it's okay to talk about how you feel. Sometimes sharing what's bothering you with someone you trust can help. Taking small steps like resting, breathing calmly, or doing something you enjoy may also help a little. If these feelings last long or become overwhelming, please consider talking to a mental health professional or a trusted person. Seeking help is a sign of strength."
+    }
+  ]
+}
