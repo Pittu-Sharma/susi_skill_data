@@ -1,0 +1,16 @@
+{
+  "name": "Getting a Visum",
+  "language": "en",
+  "examples": [
+    "How do I get a visum for Singapore?",
+    "How can I apply for a visa?",
+    "Visa application process for Singapore",
+    "How to get a travel visa?"
+  ],
+  "responses": [
+    {
+      "type": "answer",
+      "expression": "A visum (visa) is an official permission to enter a country. To get a visa for Singapore, you should check the official Singapore Immigration & Checkpoints Authority (ICA) website or contact the nearest Singapore embassy. Requirements usually include a valid passport, application form, photographs, and supporting documents. Visa rules depend on your nationality."
+    }
+  ]
+}
