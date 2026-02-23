@@ -186,3 +186,14 @@ I would love to take something appropriate from me|I would like to have some cha
 what should I prefer when it's cold|what should I prefer when it is cold
 !example:what should I prefer when it's cold
 You should wear warm clothes and drink coffee.
+# Fix follow-up handling for weather questions (Issue #360)
+what was the weather *|how was the weather *
+!example:What was the weather like?
+!console:When exactly are you asking about?
+eol
+
+yesterday|today|tomorrow
+!example:yesterday
+!console:Fetching weather information for $1$ - $!$
+eol
+
