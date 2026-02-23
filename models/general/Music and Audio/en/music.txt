@@ -44,3 +44,30 @@ play any * genre from * from mixcloud|play any * shows from * from mixcloud
 "path":"$.url"
 }
 eol
+# Ex: play salsa on youtube
+play salsa on youtube|play salsa music on youtube
+!example:play salsa on youtube
+!console:Searching Salsa music on YouTube - $!$
+{
+"url":"https://www.youtube.com/results?search_query=salsa+music",
+"path":"$"
+}
+eol
+# Ex: play salsa on youtube
+play salsa on youtube|play salsa music on youtube
+!example:play salsa on youtube
+!console:Searching Salsa music on YouTube - $!$
+{
+"url":"https://www.youtube.com/results?search_query=salsa+music",
+"path":"$"
+}
+eol
+# Ex: play salsa on youtube
+play salsa on youtube|play salsa music on youtube
+!example:play salsa on youtube
+!console:Searching Salsa music on YouTube - $!$
+{
+"url":"https://www.youtube.com/results?search_query=salsa+music",
+"path":"$"
+}
+eol
