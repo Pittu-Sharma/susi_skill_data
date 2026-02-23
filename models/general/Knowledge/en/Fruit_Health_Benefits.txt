@@ -1,0 +1,22 @@
+::name Fruit Health Benefits
+::author Pittu Sharma
+::author_url https://github.com/Pittu-Sharma
+::description Gives health benefits of common fruits
+::dynamic_content No
+::image images/fruit.png
+
+health benefits of apple|benefits of apple|apple health benefits
+Apple is rich in fiber and vitamin C. It helps improve digestion and supports heart health.
+eol
+
+health benefits of banana|benefits of banana|banana health benefits
+Banana is rich in potassium. It helps in maintaining blood pressure and gives instant energy.
+eol
+
+health benefits of mango|benefits of mango|mango health benefits
+Mango is rich in vitamin A and C. It boosts immunity and improves eye health.
+eol
+
+health benefits of orange|benefits of orange|orange health benefits
+Orange is rich in vitamin C. It improves immunity and keeps skin healthy.
+eol
