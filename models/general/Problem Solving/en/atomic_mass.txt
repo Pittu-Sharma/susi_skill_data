@@ -1,0 +1,3 @@
+atomic mass of radium
+!example:atomic mass of radium
+The atomic mass of radium is 226 u.
