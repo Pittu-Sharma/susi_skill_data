@@ -1,0 +1,26 @@
+::name India Places History
+::author Pittu Sharma
+::author_url https://github.com/Pittu-Sharma
+::description Gives historical and travel information about famous places in India
+::dynamic_content No
+::image images/india.png
+
+history of taj mahal|tell me history of taj mahal
+The Taj Mahal was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is located in Agra, India.
+eol
+
+history of delhi|tell me history of delhi
+Delhi has been the capital of many empires in Indian history, including the Mughals and the British.
+eol
+
+best places to visit in india|best holiday places in india|tourist places in india
+Some of the best places to visit in India are Taj Mahal, Jaipur, Kerala, Goa, Ladakh, and Manali.
+eol
+
+best hill stations in india|hill stations in india
+Popular hill stations in India include Shimla, Manali, Ooty, Darjeeling, and Mussoorie.
+eol
+
+best beaches in india|beaches in india
+Some famous beaches in India are Goa beaches, Varkala beach, Kovalam beach, and Radhanagar beach.
+eol
