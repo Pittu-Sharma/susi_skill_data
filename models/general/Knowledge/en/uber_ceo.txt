@@ -1,0 +1,7 @@
+who is the ceo of uber
+!example:who is the ceo of uber
+The CEO of Uber is Dara Khosrowshahi.
+
+ceo of uber
+!example:ceo of uber
+The CEO of Uber is Dara Khosrowshahi.
