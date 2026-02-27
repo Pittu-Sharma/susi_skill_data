@@ -1,0 +1,14 @@
+::name Person
+::category Knowledge
+::language en
+::author YourName
+::description Responds to queries asking to show a person
+::dynamic_content No
+
+show me person
+!example: show me person
+A person is a human being. People have thoughts, emotions, and identities.
+
+show me a person
+!example: show me a person
+This is a generic reference to a human individual.
