@@ -1,0 +1,24 @@
+::name BMI Calculator
+::category Health and Fitness
+::language en
+::author YourName
+::description Calculates Body Mass Index (BMI)
+::dynamic_content No
+
+calculate bmi * kg * cm
+!example: calculate bmi 60 kg 170 cm
+!console:Your BMI is `calc_bmi $1$ $2$`
+!javascript:calc_bmi
+var w = parseFloat($1$);
+var h = parseFloat($2$) / 100;
+(w / (h * h)).toFixed(2);
+eol
+
+calculate bmi * kg * m
+!example: calculate bmi 60 kg 1.7 m
+!console:Your BMI is `calc_bmi_m $1$ $2$`
+!javascript:calc_bmi_m
+var w = parseFloat($1$);
+var h = parseFloat($2$);
+(w / (h * h)).toFixed(2);
+eol
