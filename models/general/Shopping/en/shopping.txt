@@ -1,0 +1,27 @@
+::name Shopping
+::category Shopping
+::language en
+::author YourName
+::description Helps users find links to buy products online
+::dynamic_content No
+
+buy *
+!example:buy shoes
+You can buy $1$ online here:
+• Amazon: https://www.amazon.in/s?k=$1$
+• Flipkart: https://www.flipkart.com/search?q=$1$
+eol
+
+where can i buy *
+!example:where can i buy headphones
+You can purchase $1$ from:
+• Amazon: https://www.amazon.in/s?k=$1$
+• Flipkart: https://www.flipkart.com/search?q=$1$
+eol
+
+purchase *
+!example:purchase laptop
+Here are some places where you can buy $1$:
+• Amazon: https://www.amazon.in/s?k=$1$
+• Flipkart: https://www.flipkart.com/search?q=$1$
+eol
