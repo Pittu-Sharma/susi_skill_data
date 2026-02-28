@@ -1,0 +1,30 @@
+::name Get Started
+::category Communication
+::language en
+::author YourName
+::description Welcome message for messenger bots
+::dynamic_content No
+
+get started
+!example:get started
+Welcome! 
+I am SUSI 
+You can ask me questions, get information, or just chat with me.  
+Try asking things like:
+• What can you do?
+• Tell me a joke
+• What is BMI?
+eol
+
+start
+!example:start
+Welcome!
+I am SUSI 
+Type "help" to see what I can do.
+eol
+
+hello
+!example:hello
+Hello! 
+Type "get started" to begin.
+eol
