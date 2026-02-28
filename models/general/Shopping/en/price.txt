@@ -15,6 +15,6 @@ The approximate price of $1$ can be found online. Here are some options.
 
 https://www.google.com/search?q=price+of+$1$
 
-!example: how much does iphone 14 cost
+!example: how much does iPhone 14 cost
 You can check the latest price of $1$ here:
 https://www.google.com/search?q=price+of+$1$
