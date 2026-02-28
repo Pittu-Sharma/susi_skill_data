@@ -1,0 +1,35 @@
+::name Food Recommendation
+::category Food and Drink
+::language en
+::author Pittu Sharma
+::author_email your-email@example.com
+::description Suggests food ideas based on mood, time, or preference.
+::dynamic_content No
+
+what should i eat today | suggest me food | food recommendation
+!example: what should i eat today
+You can try something simple and tasty like dal chawal, vegetable curry, or pasta.
+
+i am hungry | feeling hungry
+!example: i am hungry
+How about a quick snack like a sandwich, fruit, or some nuts?
+
+suggest healthy food | healthy food ideas
+!example: suggest healthy food
+You can eat salads, fruits, boiled vegetables, or homemade food for a healthy choice.
+
+suggest junk food | fast food ideas
+!example: suggest junk food
+You can enjoy pizza, burger, fries, or momos sometimes as a treat.
+
+breakfast ideas | what to eat for breakfast
+!example: breakfast ideas
+You can have eggs, toast, poha, oats, or fruits for breakfast.
+
+lunch ideas | what should i eat for lunch
+!example: lunch ideas
+Rice with vegetables, roti sabzi, dal, or curd makes a good lunch.
+
+dinner ideas | what to eat for dinner
+!example: dinner ideas
+Light food like soup, roti sabzi, or khichdi is good for dinner.
