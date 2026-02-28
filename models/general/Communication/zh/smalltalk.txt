@@ -1,0 +1,33 @@
+::name Chinese Smalltalk
+::category Communication
+::language zh
+::description Simple Chinese greetings and common conversation
+::dynamic_content No
+
+你好
+!example: 你好
+你好！很高兴见到你。
+
+你好吗
+!example: 你好吗
+我很好，谢谢！你呢？
+
+早上好
+!example: 早上好
+早上好！祝你有美好的一天。
+
+下午好
+!example: 下午好
+下午好！希望你今天过得愉快。
+
+晚上好
+!example: 晚上好
+晚上好！
+
+谢谢
+!example: 谢谢
+不客气！
+
+再见
+!example: 再见
+再见！祝你一切顺利。
