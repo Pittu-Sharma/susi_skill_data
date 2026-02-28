@@ -1,0 +1,20 @@
+::protected No
+::name Price Finder
+::category Shopping
+::language en
+::author <your name>
+::description Tells the approximate price of products using web search
+::dynamic_content Yes
+
+price of *
+how much does * cost
+what is the price of *
+
+!example: price of power of now book
+The approximate price of $1$ can be found online. Here are some options.
+
+https://www.google.com/search?q=price+of+$1$
+
+!example: how much does iphone 14 cost
+You can check the latest price of $1$ here:
+https://www.google.com/search?q=price+of+$1$
