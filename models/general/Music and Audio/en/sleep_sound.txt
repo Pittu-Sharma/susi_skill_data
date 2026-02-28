@@ -1,0 +1,27 @@
+::name Sleep Sound
+::category Music and Audio
+::language en
+::author Pittu Sharma
+::author_email your-email@example.com
+::description Helps users relax by suggesting sleeping sounds and calming music.
+::dynamic_content No
+
+play sleeping sound | play sleep music | sleeping sound
+!example: play sleeping sound
+You can try listening to soft instrumental music, rain sounds, or white noise to help you sleep.
+
+play calming music | relaxing music for sleep
+!example: play calming music
+Calm piano music, slow instrumental tunes, or nature sounds are great for relaxation.
+
+i can't sleep | help me sleep
+!example: i can't sleep
+Try listening to rain sounds, ocean waves, or soft background music to relax your mind.
+
+play lullaby | sleep lullaby
+!example: play lullaby
+Soft lullabies or slow instrumental music can help you fall asleep peacefully.
+
+sleep sounds | bedtime sounds
+!example: sleep sounds
+Nature sounds like rain, wind, or forest ambience are commonly used for better sleep.
