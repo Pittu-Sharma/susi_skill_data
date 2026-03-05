@@ -1,0 +1,16 @@
+::name Send Message
+::author Pittu Sharma
+::description Send a message to a contact using SUSI AI
+::dynamic_content No
+
+send message *
+!console:Sending message to $1
+{
+"actions":[
+{
+"type":"sendmessage",
+"contact":"$1"
+}
+]
+}
+eol
