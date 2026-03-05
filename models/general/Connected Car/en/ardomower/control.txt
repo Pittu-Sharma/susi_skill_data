@@ -1,0 +1,19 @@
+::name Ardomower Control
+::author Pittu Sharma
+::description Control an Ardomower lawn mower using SUSI AI commands
+::dynamic_content No
+
+start mower
+Mower started.
+
+stop mower
+Mower stopped.
+
+move forward
+Moving forward.
+
+turn left
+Turning left.
+
+turn right
+Turning right.
