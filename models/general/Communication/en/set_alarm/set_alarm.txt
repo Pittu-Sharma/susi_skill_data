@@ -1,0 +1,16 @@
+::name Set Alarm
+::author Pittu Sharma
+::description Set an alarm using SUSI AI
+::dynamic_content No
+
+set alarm *
+!console:Setting alarm for $1
+{
+"actions":[
+{
+"type":"alarm",
+"time":"$1"
+}
+]
+}
+eol
