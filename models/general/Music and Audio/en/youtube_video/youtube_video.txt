@@ -1,0 +1,17 @@
+::name Play YouTube Video
+::author Pittu Sharma
+::description Play a YouTube video using SUSI AI
+::dynamic_content No
+
+play video
+!console:Playing video
+{
+"actions":[
+{
+"type":"playvideo",
+"identifier":"dQw4w9WgXcQ",
+"identifier_type":"youtube"
+}
+]
+}
+eol
