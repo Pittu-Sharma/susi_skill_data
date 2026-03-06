@@ -1,0 +1,16 @@
+::name Send Mail
+::author Pittu Sharma
+::description Send an email to a contact using SUSI AI
+::dynamic_content No
+
+send mail to *
+!console:Sending mail to $1
+{
+"actions":[
+{
+"type":"sendmail",
+"recipient":"$1"
+}
+]
+}
+eol
